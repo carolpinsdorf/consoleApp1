@@ -1,0 +1,14 @@
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/bin/Debug/net9.0/meuConsoleApp1
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/bin/Debug/net9.0/meuConsoleApp1.deps.json
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/bin/Debug/net9.0/meuConsoleApp1.runtimeconfig.json
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/bin/Debug/net9.0/meuConsoleApp1.dll
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/bin/Debug/net9.0/meuConsoleApp1.pdb
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.AssemblyInfoInputs.cache
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.AssemblyInfo.cs
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.dll
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/refint/meuConsoleApp1.dll
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.pdb
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.genruntimeconfig.cache
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/ref/meuConsoleApp1.dll
