@@ -12,3 +12,4 @@
 /Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.pdb
 /Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.genruntimeconfig.cache
 /Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/ref/meuConsoleApp1.dll
+/Users/carolpinsdorf/Desktop/fiap_on/fase4/meuConsoleApp1/obj/Debug/net9.0/meuConsoleApp1.sourcelink.json
